@@ -1,0 +1,27 @@
+{
+  "name": "express-drills",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-gecko/alex-express-drills.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-gecko/alex-express-drills/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-gecko/alex-express-drills#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^12.10.0",
+    "nodemon": "^1.19.2"
+  }
+}
