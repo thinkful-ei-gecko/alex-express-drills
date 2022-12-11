@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/thinkful-ei-gecko/alex-express-drills#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node": "^12.10.0",
     "nodemon": "^1.19.2"
   }
